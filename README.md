@@ -72,8 +72,8 @@ The project is hosted at: [Live Demo Link](https://jinn-fe-assignment-ap.vercel.
 ## Screenshots
 
 ### Default View
-![Default View](#)  
-(*Replace `#` with the path or URL to your screenshots.*)
+![Web_View1](./assets/web_view1.png)  
+
 
 ---
 
