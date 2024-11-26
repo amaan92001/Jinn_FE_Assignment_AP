@@ -71,16 +71,10 @@ The project is hosted at: [ChatBot Hosted Link](https://jinn-fe-assignment-ap.ve
 
 ## Screenshots
 
-<<<<<<< HEAD
 ### Website View 
 ![Web_View1](/src/assets/web_View1.png)  
 
 ![Web_View2](/src/assets/web_View2.png)  
-=======
-### Default View
-![Web_View1](./assets/web_view1.png)  
-
->>>>>>> b6dc353955d0873d7002bd4251e9bfd0df3a869c
 
 ---
 
