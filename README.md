@@ -1,5 +1,5 @@
 
-# Jinn FE Assignment ChatBot UI Demo Application
+# Jinn FE Assignment - ChatBot UI Demo Application
 
 This project is a front-end assignment to create a customizable ChatBot UI Demo Application using React. The application features a responsive layout where the user can customize various aspects of the ChatBot UI through a customization panel on the left, with real-time updates reflected in the ChatBot interface on the right.
 
