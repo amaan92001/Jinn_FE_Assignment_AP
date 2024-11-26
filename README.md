@@ -90,6 +90,3 @@ For any queries or suggestions, please contact:
 - **Name**: Amaan Patel
 - **Email**: amaanpatel500@gmail.com
 
----
-
-Let me know if you need any changes or additions!
