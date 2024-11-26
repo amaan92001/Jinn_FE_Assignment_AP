@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 
 ## Live Demo
 
-The project is hosted at: [Live Demo Link](https://jinn-fe-assignment-ap.vercel.app/)  
+The project is hosted at: [ChatBot Hosted Link](https://jinn-fe-assignment-ap.vercel.app/)  
 
 ---
 
@@ -71,9 +71,10 @@ The project is hosted at: [Live Demo Link](https://jinn-fe-assignment-ap.vercel.
 
 ## Screenshots
 
-### Default View
-![Default View](#)  
-(*Replace `#` with the path or URL to your screenshots.*)
+### Website View 
+![Web_View1](/src/assets/web_View1.png)  
+
+![Web_View2](/src/assets/web_View2.png)  
 
 ---
 
