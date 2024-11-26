@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.botLogo{
+  height: 40px;
+  border-radius: 20px;
+}
